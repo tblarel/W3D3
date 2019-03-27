@@ -1,0 +1,18 @@
+* {
+  margin: 0 auto;
+  padding: 5px;
+  border: none;
+  font:inherit;
+}
+
+ul{
+  list-style:circle;
+}
+
+body{
+  line-height: 1.5;
+}
+
+figure > img{
+  width: 100%;
+}
